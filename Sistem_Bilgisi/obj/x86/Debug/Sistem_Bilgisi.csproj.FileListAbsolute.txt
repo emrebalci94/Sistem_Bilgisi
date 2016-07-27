@@ -1,0 +1,8 @@
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\bin\Debug\Sistem_Bilgisi.exe
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\bin\Debug\Sistem_Bilgisi.pdb
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\obj\x86\Debug\Sistem_Bilgisi.Form1.resources
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\obj\x86\Debug\Sistem_Bilgisi.Properties.Resources.resources
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\obj\x86\Debug\Sistem_Bilgisi.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\obj\x86\Debug\Sistem_Bilgisi.exe
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\obj\x86\Debug\Sistem_Bilgisi.pdb
+C:\Users\Emre\Documents\Emre Balcı Programlar\Sistem_Bilgisi\Sistem_Bilgisi\obj\x86\Debug\Sistem_Bilgisi.csprojResolveAssemblyReference.cache
